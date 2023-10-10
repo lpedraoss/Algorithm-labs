@@ -1,2 +1,2 @@
 # Algorithm-labs
-En este repositorio iré depositando los laboratorios que me sean asignados
+En este repositorio iré depositando los laboratorios como quices que me sean asignados
